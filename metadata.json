@@ -1,0 +1,6 @@
+{
+  "name": "WebStore360 - Agregador de Ofertas de Afiliados",
+  "description": "Plataforma de alta conversão para curadoria de ofertas, promoções de afiliados Shopee e Amazon, com busca instantânea e carrosséis modernos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
